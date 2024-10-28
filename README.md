@@ -8,6 +8,7 @@ SecureDoc is a web application that allows users to securely encrypt and decrypt
 - Download the encrypted file along with the decryption key.
 - Decrypt previously encrypted files using the correct key.
 - Error handling for incorrect decryption keys.
+- **No File Storage**: The application does not store any uploaded files during encryption or decryption, ensuring your data remains private.
 
 ## Installation
 
